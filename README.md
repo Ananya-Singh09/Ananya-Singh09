@@ -1,7 +1,7 @@
 👋 Hi, I’m @Ananya-Singh09
-🔍 I have a keen interest in cybersecurity, data structures & algorithms, and backend development.
+🔍 I am a B.Tech CSE Student | Aspiring Cybersecurity & Cloud Professional | Certified in AWS | Ethical Hacking | Google Cybersecurity
 📖 Currently, I’m exploring advanced cybersecurity concepts while strengthening my DSA skills.
-🤝 I’m open to collaborating on cybersecurity projects, open-source contributions, and algorithmic problem-solving.
+🤝 I’m open to collaborating on cybersecurity projects and open-source contributions.
 📬 You can reach me via ananyasingh09nov@gmail.com.
 😄 Pronouns: she/her.
 ⚡ Fun fact: I love to dance.
